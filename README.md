@@ -1,8 +1,8 @@
 # News Based Oil Price Predictor
 We created a pipeline to forecast the price of energy commodities such as gas and price: 
-\\🔍 We web-scrapped an oil and gas news source called Boe Report
-\\🧪 We fed the data to a Pre-trained NLP called FinBert that returned a sentiment score for each article
-\\🚀 We trained an XGBoost regression model to link sentiment data to 5 years of oil prices.
+  🔍 We web-scrapped an oil and gas news source called Boe Report
+  🧪 We fed the data to a Pre-trained NLP called FinBert that returned a sentiment score for each article
+  🚀 We trained an XGBoost regression model to link sentiment data to 5 years of oil prices.
 
 
 ## Project Structure
